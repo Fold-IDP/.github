@@ -1,16 +1,16 @@
-\<p align="center">
-&#x20; \<img src="[https://avatars.githubusercontent.com/u/333363835?v=4](https://avatars.githubusercontent.com/u/333363835?v=4)" width="120" alt="Fold IDP">
-\</p>
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/333363835?v=4" width="120" alt="Fold IDP">
+</p>
 
-\<h1 align="center">Fold IDP\</h1>
+<h1 align="center">Fold IDP</h1>
 
-\<p align="center">
-&#x20; \<strong>From documents to data. From data to documents.\</strong>
-\</p>
+<p align="center">
+  <strong>From documents to data. From data to documents.</strong>
+</p>
 
-\<p align="center">
-&#x20; Modular building blocks for document processing, extraction, generation and automation.
-\</p>
+<p align="center">
+  Modular building blocks for document processing, extraction, generation and automation.
+</p>
 
 ---
 
@@ -51,6 +51,6 @@ Fold is designed around a few principles:
 
 ---
 
-\<p align="center">
-&#x20; \<sub>Fold is currently under active development.\</sub>
-\</p>
+<p align="center">
+  <sub>Fold is currently under active development.</sub>
+</p>
